@@ -1,3 +1,9 @@
+## 🔗 Live Preview
+
+👉 [Click here to view the app live](https://gb-pokemon-card-details.netlify.app/)
+
+
+
 # 🧩 Pokémon Explorer
 
 A dynamic and interactive **React-based** Pokémon explorer app that displays detailed information about 500 Pokémon using the [PokeAPI](https://pokeapi.co/). This project is built with advanced API handling techniques, efficient data processing, reusable components, and modern styling.
